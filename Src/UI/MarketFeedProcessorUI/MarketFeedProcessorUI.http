@@ -1,0 +1,6 @@
+@MarketFeedProcessorUI_HostAddress = http://localhost:5171
+
+GET {{MarketFeedProcessorUI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

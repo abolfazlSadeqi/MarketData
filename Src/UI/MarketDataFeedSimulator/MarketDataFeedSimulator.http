@@ -1,0 +1,6 @@
+@MarketDataFeedSimulator_HostAddress = http://localhost:5137
+
+GET {{MarketDataFeedSimulator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
